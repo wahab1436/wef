@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+beautifulsoup4
+requests
+plotly
+matplotlib
+seaborn
+nltk
+joblib
+schedule
+python-dotenv
+scipy
+statsmodels
